@@ -13,7 +13,6 @@
 ---
 
 ### 🔗 Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/al-fatah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -23,14 +22,18 @@
 ---
 
 ### 🚀 Projects & Labs
-
 - **[DevOps-Lab](https://github.com/al-fatah/devops-lab)** – Hands-on lab projects for Docker, CI/CD, and Kubernetes.
-- **[Linux Essentials](https://github.com/al-fatah/linux-essentials)** – Foundational Linux commands & scripting practices.
+- **[Food-Delivery-Security](https://github.com/al-fatah/Food-Delivery-Security)** – Food Delivery Platform Security Architecture Project.
+- **[Messaging-App-Security](https://github.com/al-fatah/Messaging-App-Security)** – Multi-Platform Messaging Service Security Architecture Project.
+- **[AI-Financial-Fraud-Detection](https://github.com/al-fatah/AI-Financial-Fraud-Detection)** – AI-Driven Financial Fraud Detection Project.
+- **[AI-Insurance-Underwriting](https://github.com/al-fatah/AI-Insurance-Underwriting)** – AI-Driven Insurance Underwriting Project.
+- **[healthcare-platform](https://github.com/al-fatah/healthcare-platform)** – Healthcare Platform Architecture Project.
+- **[e-scooter-platform](https://github.com/al-fatah/e-scooter-platform)** – Scooter Sharing Platform Architecture Project.
+- **[YAFD – Yet Another Food Delivery](https://github.com/al-fatah/YAFD)** – Food Delivery Platform Project.
 
 ---
 
 ### 🛠️ Tools & Technologies
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white" alt="Docker"/>
@@ -50,7 +53,6 @@
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-fatah&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br/>
@@ -63,7 +65,6 @@
 ---
 
 ### 🏆 GitHub Achievements
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=al-fatah&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
@@ -71,7 +72,6 @@
 ---
 
 ### ☕ Support My Work
-
 <p align="left">
   <a href="https://coff.ee/al.fatah" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
