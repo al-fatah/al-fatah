@@ -18,15 +18,14 @@
   <a href="https://www.linkedin.com/in/al-fatah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  </a>
 </p>
 
 ---
 
 ### 🚀 Projects & Labs
 
-- **[DevOps-Lab](https://github.com/al-fatah/devops-lab)** - Hands-on lab projects for Docker, CI/CD, and Kubernetes.
-- **[Linux Essentials](https://github.com/al-fatah/linux-essentials)** - Foundational Linux commands & scripting practices.
+- **[DevOps-Lab](https://github.com/al-fatah/devops-lab)** – Hands-on lab projects for Docker, CI/CD, and Kubernetes.
+- **[Linux Essentials](https://github.com/al-fatah/linux-essentials)** – Foundational Linux commands & scripting practices.
 
 ---
 
@@ -38,9 +37,14 @@
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/-Terraform-623CE4?&logo=Terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/-Azure-0078D4?&logo=Microsoft-Azure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/-CI/CD-FF6C37?&logo=Jenkins&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?&logo=Jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/-Prometheus-E6522C?&logo=Prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ---
@@ -48,9 +52,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-fatah&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-fatah&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=al-fatah&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=al-fatah&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
