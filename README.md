@@ -14,7 +14,7 @@
 
 ### 🔗 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/al-fatah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
