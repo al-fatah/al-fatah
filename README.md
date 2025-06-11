@@ -14,7 +14,7 @@
 
 ### 🔗 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/al-fatah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -56,7 +56,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=al-fatah&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=al-fatah&color=brightgreen&style=flat" alt="Profile views" />
 </p>
