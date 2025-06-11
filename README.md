@@ -48,13 +48,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-fatah&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=al-fatah&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=al-fatah&color=brightgreen&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=al-fatah&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ### ☕ Support My Work
 
 <p align="left">
-  <a href="https://buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://buymeacoffee.com/al-fatah" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
