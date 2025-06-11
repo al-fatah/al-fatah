@@ -35,19 +35,21 @@
 
 ### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?&logo=Terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/-Azure-0078D4?&logo=Microsoft-Azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/-CI/CD-FF6C37?&logo=Jenkins&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?&logo=Jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?&logo=Prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?&logo=Terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/-Ansible-EE0000?&logo=Ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?&logo=Jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/-CI/CD-FF6C37?&logo=CircleCI&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/-Prometheus-E6522C?&logo=Prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/-Grafana-F46800?&logo=Grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black" alt="Linux"/>
 </p>
 
 ---
