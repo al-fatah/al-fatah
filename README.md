@@ -23,13 +23,14 @@
 
 ### 🚀 Projects & Labs
 - **[DevOps-Lab](https://github.com/al-fatah/devops-lab)** – Practical labs on Docker, CI/CD pipelines, and Kubernetes.
+- **[YAFD – Yet Another Food Delivery](https://github.com/al-fatah/YAFD)** – A prototype food delivery platform demonstrating real-time order management and role-based interfaces for consumers, merchants, and riders.
 - **[Food-Delivery-Security](https://github.com/al-fatah/Food-Delivery-Security)** – Security architecture design for a food delivery platform opening access to third-party providers and public users.
 - **[Messaging-App-Security](https://github.com/al-fatah/Messaging-App-Security)** – End-to-end security design for a multi-platform messaging app built with microservices and distributed infrastructure.
 - **[AI-Financial-Fraud-Detection](https://github.com/al-fatah/AI-Financial-Fraud-Detection)** – AI-powered solution to detect and mitigate various types of financial fraud, using explainable and responsible AI practices.
 - **[AI-Insurance-Underwriting](https://github.com/al-fatah/AI-Insurance-Underwriting)** – Intelligent underwriting system that integrates traditional and alternative health data to improve accuracy and efficiency.
 - **[healthcare-platform](https://github.com/al-fatah/healthcare-platform)** – Cloud-native architecture for a scalable, secure, and interoperable digital healthcare platform.
 - **[e-scooter-platform](https://github.com/al-fatah/e-scooter-platform)** – Solution architecture for a cloud-based, multi-country scooter-sharing platform focused on scalability and service expansion.
-- **[YAFD – Yet Another Food Delivery](https://github.com/al-fatah/YAFD)** – A prototype food delivery platform demonstrating real-time order management and role-based interfaces for consumers, merchants, and riders.
+
 ---
 
 ### 🛠️ Tools & Technologies
