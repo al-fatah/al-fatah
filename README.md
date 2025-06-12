@@ -28,6 +28,7 @@
 - **[Messaging-App-Security](https://github.com/al-fatah/Messaging-App-Security)** – End-to-end security design for a multi-platform messaging app built with microservices and distributed infrastructure.
 - **[AI-Financial-Fraud-Detection](https://github.com/al-fatah/AI-Financial-Fraud-Detection)** – AI-powered solution to detect and mitigate various types of financial fraud, using explainable and responsible AI practices.
 - **[AI-Insurance-Underwriting](https://github.com/al-fatah/AI-Insurance-Underwriting)** – Intelligent underwriting system that integrates traditional and alternative health data to improve accuracy and efficiency.
+- **[Credit-Scoring-AI](https://github.com/al-fatah/Credit-Scoring-AI)** – Credit scoring model leveraging both traditional financial data and alternative data sources to improve credit access and risk assessment.
 - **[healthcare-platform](https://github.com/al-fatah/healthcare-platform)** – Cloud-native architecture for a scalable, secure, and interoperable digital healthcare platform.
 - **[e-scooter-platform](https://github.com/al-fatah/e-scooter-platform)** – Solution architecture for a cloud-based, multi-country scooter-sharing platform focused on scalability and service expansion.
 
