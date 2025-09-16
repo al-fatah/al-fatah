@@ -55,18 +55,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-fatah&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=al-fatah&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=al-fatah&color=brightgreen&style=flat" alt="Profile views" />
-</p>
-
----
-
 ### 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=al-fatah&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
