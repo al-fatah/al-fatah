@@ -12,34 +12,38 @@
 
 ---
 
-### 🔗 Connect with Me
 <div align="center">
+  <h3>🔗 Connect with Me</h3>
+</div>
+<p align="center">
   <a href="https://www.linkedin.com/in/al-fatah/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
+</p>
 
 ---
 
-### 🚀 Projects & Labs
 <div align="center">
+  <h3>🚀 Projects & Labs</h3>
+</div>
 
 - **[DevOps-Lab](https://github.com/al-fatah/devops-lab)** – Practical labs on Docker, CI/CD pipelines, and Kubernetes.  
-- **[YAFD – Yet Another Food Delivery](https://github.com/al-fatah/YAFD)** – Prototype food delivery platform with real-time order management and role-based interfaces.  
-- **[Food-Delivery-Security](https://github.com/al-fatah/Food-Delivery-Security)** – Security architecture for a food delivery platform.  
-- **[Messaging-App-Security](https://github.com/al-fatah/Messaging-App-Security)** – End-to-end security design for a messaging app built on microservices.  
-- **[AI-Financial-Fraud-Detection](https://github.com/al-fatah/AI-Financial-Fraud-Detection)** – AI-powered financial fraud detection using explainable AI.  
-- **[AI-Insurance-Underwriting](https://github.com/al-fatah/AI-Insurance-Underwriting)** – Intelligent underwriting system using traditional and alternative health data.  
-- **[Credit-Scoring-AI](https://github.com/al-fatah/Credit-Scoring-AI)** – AI model using alternative data for credit risk assessment.  
-- **[healthcare-platform](https://github.com/al-fatah/healthcare-platform)** – Cloud-native architecture for scalable and secure healthcare systems.  
-- **[e-scooter-platform](https://github.com/al-fatah/e-scooter-platform)** – Multi-country scooter-sharing platform designed for scalability.  
-
-</div>
+- **[YAFD – Yet Another Food Delivery](https://github.com/al-fatah/YAFD)** – A prototype food delivery platform demonstrating real-time order management and role-based interfaces for consumers, merchants, and riders.  
+- **[Food-Delivery-Security](https://github.com/al-fatah/Food-Delivery-Security)** – Security architecture design for a food delivery platform opening access to third-party providers and public users.  
+- **[Messaging-App-Security](https://github.com/al-fatah/Messaging-App-Security)** – End-to-end security design for a multi-platform messaging app built with microservices and distributed infrastructure.  
+- **[AI-Financial-Fraud-Detection](https://github.com/al-fatah/AI-Financial-Fraud-Detection)** – AI-powered solution to detect and mitigate various types of financial fraud, using explainable and responsible AI practices.  
+- **[AI-Insurance-Underwriting](https://github.com/al-fatah/AI-Insurance-Underwriting)** – Intelligent underwriting system that integrates traditional and alternative health data to improve accuracy and efficiency.  
+- **[Credit-Scoring-AI](https://github.com/al-fatah/Credit-Scoring-AI)** – Credit scoring model leveraging both traditional financial data and alternative data sources to improve credit access and risk assessment.  
+- **[healthcare-platform](https://github.com/al-fatah/healthcare-platform)** – Cloud-native architecture for a scalable, secure, and interoperable digital healthcare platform.  
+- **[e-scooter-platform](https://github.com/al-fatah/e-scooter-platform)** – Solution architecture for a cloud-based, multi-country scooter-sharing platform focused on scalability and service expansion.  
 
 ---
 
-### 🛠️ Tools & Technologies
 <div align="center">
+  <h3>🛠️ Tools & Technologies</h3>
+</div>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/-Azure-0078D4?&logo=Microsoft-Azure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/-Terraform-623CE4?&logo=Terraform&logoColor=white" alt="Terraform"/>
@@ -55,23 +59,26 @@
   <img src="https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black" alt="Linux"/>
-</div>
+</p>
 
 ---
 
-### 🏆 GitHub Achievements
 <div align="center">
+  <h3>🏆 GitHub Achievements</h3>
+</div>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=al-fatah&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
-</div>
+</p>
 
 ---
 
-### ☕ Support My Work
 <div align="center">
+  <h3>☕ Support My Work</h3>
+</div>
+
+<p align="center">
   <a href="https://coff.ee/al.fatah" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
-</div>
-```
-
-✅ **All sections are now center-aligned**, including text, badges, and project links — perfect for a polished GitHub profile README.
+</p>
