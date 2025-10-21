@@ -10,7 +10,7 @@
   </samp>
 </div>
 
-<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
+---
 
 <div align="center">
   <h3>🔗 Connect with Me</h3>
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
+---
 
 <div align="center">
   <h3>🚀 Projects & Labs</h3>
@@ -37,7 +37,7 @@
 - **[healthcare-platform](https://github.com/al-fatah/healthcare-platform)** – Cloud-native architecture for a scalable, secure, and interoperable digital healthcare platform.  
 - **[e-scooter-platform](https://github.com/al-fatah/e-scooter-platform)** – Solution architecture for a cloud-based, multi-country scooter-sharing platform focused on scalability and service expansion.  
 
-<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
+---
 
 <div align="center">
   <h3>🛠️ Tools & Technologies</h3>
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black" alt="Linux"/>
 </p>
 
-<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
+---
 
 <div align="center">
   <h3>🏆 GitHub Achievements</h3>
@@ -71,7 +71,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=al-fatah&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
-<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
+---
 
 <div align="center">
   <h3>☕ Support My Work</h3>
