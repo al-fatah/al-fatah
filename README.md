@@ -68,7 +68,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=al-fatah&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=al-fatah)](https://github.com/al-fatah/github-profile-trophy)" />
+  
 </p>
 
 ---
