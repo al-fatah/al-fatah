@@ -64,17 +64,6 @@
 ---
 
 <div align="center">
-  <h3>🏆 GitHub Achievements</h3>
-</div>
-
-<p align="center">
-  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=al-fatah)](https://github.com/al-fatah/github-profile-trophy)" />
-  
-</p>
-
----
-
-<div align="center">
   <h3>☕ Support My Work</h3>
 </div>
 
