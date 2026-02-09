@@ -24,7 +24,7 @@
 
 ---
 <div align="center">
-  <h3> Projects & Labs</h3>
+  <h3>🚀 Projects & Labs</h3>
 </div>
 
 <br/>
