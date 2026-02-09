@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <h3>☁️ Cloud-Native Infrastructure & Platforms</h3>
+  <h3> Cloud-Native Infrastructure & Platforms</h3>
 </div>
 
 - **[eks-ingress-externaldns-cert-manager](https://github.com/al-fatah/eks-ingress-externaldns-cert-manager)** – End-to-end Kubernetes ingress, DNS, and TLS automation on Amazon EKS using NGINX Ingress, ExternalDNS, and cert-manager.  
