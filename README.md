@@ -23,14 +23,15 @@
 </p>
 
 ---
-
 <div align="center">
-  <h3>🚀 Projects & Labs</h3>
+  <h3> Projects & Labs</h3>
 </div>
 
 <br/>
 
-### Cloud-Native Infrastructure & Platforms
+<div align="center">
+  <h3>☁️ Cloud-Native Infrastructure & Platforms</h3>
+</div>
 
 - **[eks-ingress-externaldns-cert-manager](https://github.com/al-fatah/eks-ingress-externaldns-cert-manager)** – End-to-end Kubernetes ingress, DNS, and TLS automation on Amazon EKS using NGINX Ingress, ExternalDNS, and cert-manager.  
 
@@ -44,7 +45,9 @@
 
 <br/>
 
-### Architecture & System Design
+<div align="center">
+  <h3> Architecture & System Design</h3>
+</div>
 
 - **[DevOps-Lab](https://github.com/al-fatah/devops-lab)** – Practical labs on Docker, CI/CD pipelines, and Kubernetes.  
 
