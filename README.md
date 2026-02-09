@@ -4,9 +4,9 @@
 
 <div align="center">
   <samp>
-    <p>Everything here reflects my own learning journey, ideas, and interests — not those of any current or future employer 💭</p>
-    <p>DevOps & SRE enthusiast passionate about cloud technologies, automation, and building resilient systems ⚙️🌥️🔥</p>
-    <p>I’m driven to support open-source and empower aspiring engineers, especially those from underrepresented communities. Let’s build and learn together 🤝</p>
+    <p>Everything here reflects my own learning journey, ideas, interests and not those of any current or future employer 💭</p>
+    <p>A DevOps & SRE enthusiast passionate about cloud technologies, automation, and building resilient systems ⚙️🌥️🔥</p>
+    <p>I'm also driven to support open-source projects and love empowering aspiring engineers, especially those from underrepresented communities. Let's build and learn together! 🤝</p>
   </samp>
 </div>
 
@@ -28,45 +28,41 @@
   <h3>🚀 Projects & Labs</h3>
 </div>
 
----
+<br/>
 
-## ☁️ Cloud-Native Infrastructure & Platforms
+### Cloud-Native Infrastructure & Platforms
 
-Production-style cloud systems built with AWS, Terraform, Kubernetes, ECS, serverless, CI/CD, security, and observability.
+- **[eks-ingress-externaldns-cert-manager](https://github.com/al-fatah/eks-ingress-externaldns-cert-manager)** – End-to-end Kubernetes ingress, DNS, and TLS automation on Amazon EKS using NGINX Ingress, ExternalDNS, and cert-manager.  
 
-- **[eks-ingress-externaldns-cert-manager](https://github.com/al-fatah/eks-ingress-externaldns-cert-manager)** – End-to-end Kubernetes ingress, DNS, and TLS automation on Amazon EKS using NGINX Ingress, ExternalDNS, and cert-manager.
+- **[ecs-multisvc-iac](https://github.com/al-fatah/ecs-multisvc-iac)** – Terraform-managed AWS infrastructure deploying multiple ECS Fargate services behind an ALB, secured with GitHub Actions OIDC and least-privilege IAM.  
 
-- **[ecs-multisvc-iac](https://github.com/al-fatah/ecs-multisvc-iac)** – Terraform-managed AWS infrastructure deploying multiple ECS Fargate services behind an ALB, secured with GitHub Actions OIDC and least-privilege IAM.
+- **[ecs-multisvc-apps](https://github.com/al-fatah/ecs-multisvc-apps)** – Two containerized Flask microservices deployed on ECS Fargate with ALB routing and CI/CD automation.  
 
-- **[ecs-multisvc-apps](https://github.com/al-fatah/ecs-multisvc-apps)** – Two containerized Flask microservices deployed on ECS Fargate with ALB routing and CI/CD automation.
+- **[ecs-fargate-cicd-terraform](https://github.com/al-fatah/ecs-fargate-cicd-terraform)** – End-to-end CI/CD pipeline provisioning ECS + ECR with Terraform, building Docker images via GitHub Actions, and deploying via task definition updates.  
 
-- **[ecs-fargate-cicd-terraform](https://github.com/al-fatah/ecs-fargate-cicd-terraform)** – End-to-end CI/CD pipeline provisioning ECS + ECR with Terraform, building Docker images via GitHub Actions, and deploying via task definition updates.
+- **[serverless-url-shortener-sre](https://github.com/al-fatah/serverless-url-shortener-sre)** – Production-style serverless URL shortener with WAF IP allowlisting, tracing, alarms, observability, and Terraform-based deployment.  
 
-- **[serverless-url-shortener-sre](https://github.com/al-fatah/serverless-url-shortener-sre)** – Production-style serverless URL shortener with WAF IP allowlisting, tracing, alarms, observability, and Terraform-based deployment.
+<br/>
 
----
+### Architecture & System Design
 
-## 🧠 Architecture & System Design
+- **[DevOps-Lab](https://github.com/al-fatah/devops-lab)** – Practical labs on Docker, CI/CD pipelines, and Kubernetes.  
 
-Scalable, secure, and distributed system designs across cloud, security, AI, and platform engineering domains.
+- **[YAFD – Yet Another Food Delivery](https://github.com/al-fatah/YAFD)** – A prototype food delivery platform demonstrating real-time order management and role-based interfaces for consumers, merchants, and riders.  
 
-- **[DevOps-Lab](https://github.com/al-fatah/devops-lab)** – Practical labs covering Docker, CI/CD pipelines, and Kubernetes fundamentals.
+- **[Food-Delivery-Security](https://github.com/al-fatah/Food-Delivery-Security)** – Security architecture design for a food delivery platform opening access to third-party providers and public users.  
 
-- **[YAFD – Yet Another Food Delivery](https://github.com/al-fatah/YAFD)** – Real-time food delivery platform prototype demonstrating microservices architecture and role-based system design.
+- **[Messaging-App-Security](https://github.com/al-fatah/Messaging-App-Security)** – End-to-end security design for a multi-platform messaging app built with microservices and distributed infrastructure.  
 
-- **[Food-Delivery-Security](https://github.com/al-fatah/Food-Delivery-Security)** – Security architecture design enabling third-party integrations and public access.
+- **[AI-Financial-Fraud-Detection](https://github.com/al-fatah/AI-Financial-Fraud-Detection)** – AI-powered solution to detect and mitigate various types of financial fraud using explainable and responsible AI practices.  
 
-- **[Messaging-App-Security](https://github.com/al-fatah/Messaging-App-Security)** – End-to-end security design for a distributed messaging system.
+- **[AI-Insurance-Underwriting](https://github.com/al-fatah/AI-Insurance-Underwriting)** – Intelligent underwriting system integrating traditional and alternative health data to improve accuracy and efficiency.  
 
-- **[AI-Financial-Fraud-Detection](https://github.com/al-fatah/AI-Financial-Fraud-Detection)** – AI-driven fraud detection system using explainable and responsible AI principles.
+- **[Credit-Scoring-AI](https://github.com/al-fatah/Credit-Scoring-AI)** – Credit scoring model leveraging both traditional financial data and alternative data sources to improve credit access and risk assessment.  
 
-- **[AI-Insurance-Underwriting](https://github.com/al-fatah/AI-Insurance-Underwriting)** – Intelligent underwriting system integrating traditional and alternative health data.
+- **[healthcare-platform](https://github.com/al-fatah/healthcare-platform)** – Cloud-native architecture for a scalable, secure, and interoperable digital healthcare platform.  
 
-- **[Credit-Scoring-AI](https://github.com/al-fatah/Credit-Scoring-AI)** – Credit scoring model leveraging financial and alternative datasets.
-
-- **[healthcare-platform](https://github.com/al-fatah/healthcare-platform)** – Cloud-native architecture for a secure and interoperable healthcare platform.
-
-- **[e-scooter-platform](https://github.com/al-fatah/e-scooter-platform)** – Multi-country scooter-sharing architecture focused on scalability and operational resilience.
+- **[e-scooter-platform](https://github.com/al-fatah/e-scooter-platform)** – Solution architecture for a cloud-based, multi-country scooter-sharing platform focused on scalability and service expansion.  
 
 ---
 
@@ -83,6 +79,7 @@ Scalable, secure, and distributed system designs across cloud, security, AI, and
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/-Jenkins-D24939?&logo=Jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/-CI/CD-FF6C37?&logo=CircleCI&logoColor=white" alt="CI/CD"/>
   <img src="https://img.shields.io/badge/-Prometheus-E6522C?&logo=Prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/-Grafana-F46800?&logo=Grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white" alt="Python"/>
