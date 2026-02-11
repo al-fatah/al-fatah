@@ -45,8 +45,6 @@
   <h3> Architecture & System Design</h3>
 </div>
 
-- **[DevOps-Lab](https://github.com/al-fatah/devops-lab)** – Practical labs on Docker, CI/CD pipelines, and Kubernetes.  
-
 - **[YAFD – Yet Another Food Delivery](https://github.com/al-fatah/YAFD)** – A prototype food delivery platform demonstrating real-time order management and role-based interfaces for consumers, merchants, and riders.  
 
 - **[Food-Delivery-Security](https://github.com/al-fatah/Food-Delivery-Security)** – Security architecture design for a food delivery platform opening access to third-party providers and public users.  
