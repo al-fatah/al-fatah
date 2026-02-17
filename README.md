@@ -28,8 +28,6 @@
   <h3>🚀 Projects & Labs</h3>
 </div>
 
-<br/>
-
 <div align="center">
   <h3>☁️ Cloud-Native Infrastructure & Platforms</h3>
 </div>
@@ -43,8 +41,6 @@
 - **[ecs-fargate-cicd-terraform](https://github.com/al-fatah/ecs-fargate-cicd-terraform)** – End-to-end CI/CD pipeline provisioning ECS + ECR with Terraform, building Docker images via GitHub Actions, and deploying via task definition updates.  
 
 - **[serverless-url-shortener-sre](https://github.com/al-fatah/serverless-url-shortener-sre)** – Production-style serverless URL shortener with WAF IP allowlisting, tracing, alarms, observability, and Terraform-based deployment.  
-
-<br/>
 
 <div align="center">
   <h3>🧠 Architecture & System Design</h3>
