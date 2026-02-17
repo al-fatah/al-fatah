@@ -24,11 +24,8 @@
 
 ---
 <div align="center">
-  <h3>🚀 Projects & Labs</h3>
-</div>
-
-<div align="center">
-  <h3> Cloud-Native Infrastructure & Platforms</h3>
+  <h3>☁️ Cloud-Native Infrastructure & Platforms</h3>
+  <hr width="60%" />
 </div>
 
 - **[eks-ingress-externaldns-cert-manager](https://github.com/al-fatah/eks-ingress-externaldns-cert-manager)** – End-to-end Kubernetes ingress, DNS, and TLS automation on Amazon EKS using NGINX Ingress, ExternalDNS, and cert-manager.  
@@ -41,8 +38,11 @@
 
 - **[serverless-url-shortener-sre](https://github.com/al-fatah/serverless-url-shortener-sre)** – Production-style serverless URL shortener with WAF IP allowlisting, tracing, alarms, observability, and Terraform-based deployment.  
 
+<br/>
+
 <div align="center">
-  <h3> Architecture & System Design</h3>
+  <h3>🧠 Architecture & System Design</h3>
+  <hr width="60%" />
 </div>
 
 - **[YAFD – Yet Another Food Delivery](https://github.com/al-fatah/YAFD)** – A prototype food delivery platform demonstrating real-time order management and role-based interfaces for consumers, merchants, and riders.  
