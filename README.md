@@ -25,7 +25,7 @@
 ---
 <div align="center">
   <h3>☁️ Cloud-Native Infrastructure & Platforms</h3>
-  <hr width="60%" style="border:0; border-top:1px solid #555; margin: 12px auto;" />
+  <hr width="55%" style="border:0; border-top:1px solid #333; opacity:0.5; margin: 10px auto;" />
 </div>
 
 - **[eks-ingress-externaldns-cert-manager](https://github.com/al-fatah/eks-ingress-externaldns-cert-manager)** – End-to-end Kubernetes ingress, DNS, and TLS automation on Amazon EKS using NGINX Ingress, ExternalDNS, and cert-manager.  
