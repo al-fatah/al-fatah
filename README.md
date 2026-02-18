@@ -4,8 +4,8 @@
 
 <div align="center">
   <samp>
-    <p>Everything here reflects my own learning journey, ideas, interests and not those of any current or future employer 💭</p>
-    <p>A DevOps & SRE enthusiast passionate about cloud technologies, automation, and building resilient systems ⚙️🌥️🔥</p>
+    <p>Everything here reflects my own learning journey, ideas, interests and not those of any current or future employer </p>
+    <p>A DevOps & SRE enthusiast passionate about cloud technologies, automation, and building resilient systems </p>
     <p>I'm also driven to support open-source projects and love empowering aspiring engineers, especially those from underrepresented communities. Let's build and learn together! 🤝</p>
   </samp>
 </div>
