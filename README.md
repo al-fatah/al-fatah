@@ -32,6 +32,12 @@
   <h3>Cloud-Native Infrastructure & Platforms</h3>
 </div>
 
+- **[cloud-native-devops-platform](https://github.com/al-fatah/cloud-native-devops-platform)** – Production-grade cloud-native DevOps platform using Kubernetes, Terraform, CI/CD pipelines, monitoring, and autoscaling.  
+
+- **[aws-multi-region-ha-terraform](https://github.com/al-fatah/aws-multi-region-ha-terraform)** – Highly available multi-region AWS architecture built with Terraform, featuring failover, Route 53 health checks, and resilient infrastructure design.  
+
+- **[devsecops-cicd-pipeline](https://github.com/al-fatah/devsecops-cicd-pipeline)** – End-to-end DevSecOps CI/CD pipeline with automated security scanning, containerization, and Kubernetes deployment.  
+
 - **[eks-ingress-externaldns-cert-manager](https://github.com/al-fatah/eks-ingress-externaldns-cert-manager)** – End-to-end Kubernetes ingress, DNS, and TLS automation on Amazon EKS using NGINX Ingress, ExternalDNS, and cert-manager.  
 
 - **[ecs-multisvc-iac](https://github.com/al-fatah/ecs-multisvc-iac)** – Terraform-managed AWS infrastructure deploying multiple ECS Fargate services behind an ALB, secured with GitHub Actions OIDC and least-privilege IAM.  
